@@ -2,6 +2,7 @@
     'name': "library_manage",
     'version': '1.0',
     'depends': ['base'],
+    'installation': 'True',
     'author': "my library",
     'category': 'sales',
 
