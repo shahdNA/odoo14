@@ -1,9 +1,10 @@
 {
-    'name': "library_mangement",
+    'name': "library_manage",
     'version': '1.0',
     'depends': ['base'],
     'author': "my library",
     'category': 'sales',
+
     'description': "",
     'data': [
         'views/library_view.xml',
